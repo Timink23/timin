@@ -1,0 +1,4 @@
+source "C:/Users/timin/esp/components/bootloader/Kconfig.projbuild"
+source "C:/Users/timin/esp/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/timin/esp/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/timin/esp/components/partition_table/Kconfig.projbuild"

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/timin/esp/code-examples/i2c-display/build/CMakeFiles/bootloader
+C:/Users/timin/esp/code-examples/i2c-display/build/CMakeFiles/bootloader.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/CMakeFiles/bootloader-complete.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/timin/esp/code-examples/i2c-display/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

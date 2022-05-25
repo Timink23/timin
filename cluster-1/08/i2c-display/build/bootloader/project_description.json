@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/timin/esp/components/bootloader/subproject",
+    "build_dir":          "C:/Users/timin/esp/code-examples/i2c-display/build/bootloader",
+    "config_file":        "C:/Users/timin/esp/code-examples/i2c-display/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/timin/esp/components/efuse/Kconfig;C:/Users/timin/esp/components/esp32/Kconfig;C:/Users/timin/esp/components/esp_common/Kconfig;C:/Users/timin/esp/components/esp_hw_support/Kconfig;C:/Users/timin/esp/components/esp_system/Kconfig;C:/Users/timin/esp/components/freertos/Kconfig;C:/Users/timin/esp/components/hal/Kconfig;C:/Users/timin/esp/components/log/Kconfig;C:/Users/timin/esp/components/newlib/Kconfig;C:/Users/timin/esp/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/timin/esp/components/bootloader/Kconfig.projbuild;C:/Users/timin/esp/components/esp_rom/Kconfig.projbuild;C:/Users/timin/esp/components/esptool_py/Kconfig.projbuild;C:/Users/timin/esp/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Users/timin/esp/components/bootloader", "C:/Users/timin/esp/components/bootloader_support", "C:/Users/timin/esp/components/efuse", "C:/Users/timin/esp/components/esp32", "C:/Users/timin/esp/components/esp_common", "C:/Users/timin/esp/components/esp_hw_support", "C:/Users/timin/esp/components/esp_rom", "C:/Users/timin/esp/components/esp_system", "C:/Users/timin/esp/components/esptool_py", "C:/Users/timin/esp/components/freertos", "C:/Users/timin/esp/components/hal", "C:/Users/timin/esp/components/log", "C:/Users/timin/esp/components/bootloader/subproject/main", "C:/Users/timin/esp/components/bootloader/subproject/components/micro-ecc", "C:/Users/timin/esp/components/newlib", "C:/Users/timin/esp/components/partition_table", "C:/Users/timin/esp/components/soc", "C:/Users/timin/esp/components/spi_flash", "C:/Users/timin/esp/components/xtensa", "" ]
+}
